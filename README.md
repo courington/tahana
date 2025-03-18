@@ -1,5 +1,7 @@
 # Welcome to React Router!
 
+## Using React Router to build an application for generating routes between points on a map taking into considering effort, energy, and time based on optional inputs such as terrain, snowpack, slope angle, elevation, and others.
+
 A modern, production-ready template for building full-stack React applications using React Router.
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
